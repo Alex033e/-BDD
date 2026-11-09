@@ -1,0 +1,7 @@
+behave==1.2.6
+requests==2.32.3
+faker==38.2.0
+uvicorn[standard]==0.34.1
+fastapi==0.115.12
+python-dotenv==1.0.0
+pytest==8.4.1
